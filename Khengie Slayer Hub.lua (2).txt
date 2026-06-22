@@ -1,0 +1,5 @@
+--[[
+𝗪𝗛𝗔𝗧 𝗧𝗛𝗘 𝗛𝗘𝗟𝗟 𝗔𝗥𝗘 𝗬𝗢𝗨 𝗗𝗢𝗜𝗡𝗚 𝗪𝗜𝗧𝗛 𝗦𝗞𝗜𝗗?
+𝗦𝗞𝗜𝗗, 𝗚𝗢 𝗙𝗨𝗖𝗞 𝗬𝗢𝗨𝗥𝗦𝗘𝗟𝗙, 𝗕𝗘 𝗠𝗬 𝗚𝗨𝗘𝗦𝗧?
+]]--
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/2a7d9a2e859b55579bbd2f4b81e8651c3d96f1a92947751cbdf56d770fe1501f/download"))()
